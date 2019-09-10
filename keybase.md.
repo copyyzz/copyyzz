@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am copyyzz on github.
+  * I am copyyzz (https://keybase.io/copyyzz) on keybase.
+  * I have a public key ASBRBC1CENbBzNvvtn-8aGl_TaDbXxzTLNo0L1dHB5cizAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012051042d4210d6c1ccdbefb67fbc68697f4da0db5f1cd32cda342f5747079722cc0a",
+      "host": "keybase.io",
+      "kid": "012051042d4210d6c1ccdbefb67fbc68697f4da0db5f1cd32cda342f5747079722cc0a",
+      "uid": "2456339de0c62b359e5b625241a0e519",
+      "username": "copyyzz"
+    },
+    "merkle_root": {
+      "ctime": 1568106157,
+      "hash": "a147a58f011866c6c738496f15a0684b88a83391b937725e0873176923c25b048e83b6a3d7676d7b3d62d01a68e87a3c74e59d33fffafde62742846e04cd77e8",
+      "hash_meta": "2bb35aa7e94d9205b78fdd3abc1018bccedf89603268824cf7c62984182af93a",
+      "seqno": 6357140
+    },
+    "service": {
+      "entropy": "D8OIpNUrVx/Q8/YfpuEdufVK",
+      "name": "github",
+      "username": "copyyzz"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568106210,
+  "expire_in": 504576000,
+  "prev": "88562af16b2b474fb67677e90571c860b90d34675bac34f8e523b99e6d0bcec7",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASBRBC1CENbBzNvvtn-8aGl_TaDbXxzTLNo0L1dHB5cizAo](https://keybase.io/copyyzz), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUQQtQhDWwczb77Z/vGhpf02g218c0yzaNC9XRweXIswKp3BheWxvYWTESpcCDcQgiFYq8WsrR0+2dnfpBXHIYLkNNGdbrDT45SO5nm0LzsfEIIPY+/CBPOCgE9jRXOMeVpAYy59o+RTLPK9XBM9++RxuAgHCo3NpZ8RAw7kujutMIIXZ+d7O4FpisGXqXHhnFTaHvwAci+bGW2JrbXJcKBWetpuR2O2labpVRMxvV7P+AJ2i5l8xK7TKAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPW+8UOr843a6DHc9/dEtB4y4SerlWJSSqZG3j+KG2m3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/copyyzz
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id copyyzz
+```
